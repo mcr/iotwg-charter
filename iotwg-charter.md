@@ -55,7 +55,7 @@ protocol.  The WG is expected to produce concise Roadmap documents that
 explain how a variety of IETF (and other) protocols can work together to
 satisfy the Operational needs of specific IoT areas.
 
-Neither the WG nor the IETF has exclusivity hear, and an ideal document would
+Neither the WG nor the IETF has exclusivity here, and an ideal document would
 be one that the WG helps to start, but a specific industry alliance becomes
 the lead editor for.
 
