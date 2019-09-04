@@ -7,7 +7,7 @@ This include CoAP, CBOR, 6TISCH, ROLL, SUIT, NETCONF SZTP, T2TRG, ANIMA's BRSKI 
 protocol, and most recently RFC8520, the Manufacturer Usage Description.
 
 The IETF has tried to focus on categories of what limited things can do, and
-this has resulted in a number of useful documents form the Light-Weight
+this has resulted in a number of useful documents from the Light-Weight
 Implementation Guide (LWIG).  RFC7228 is a key product, having provided
 terminology and scaling understanding to the entire industry.
 All of this has been about scaling the Internet technologies to small devices
