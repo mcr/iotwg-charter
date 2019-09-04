@@ -50,7 +50,7 @@ The WG is not expected to pick a winner, and is encouraged to work on a
 multitude of use-case specific protocols: better to get one use case right,
 than to be too-complex jack of all trades.
 
-The WG is expected articulate clear applicability statements for each
+The WG is expected to articulate clear applicability statements for each
 protocol.  The WG is expected to produce concise Roadmap documents that
 explain how a variety of IETF (and other) protocols can work together to
 satisfy the Operational needs of specific IoT areas. These roadmap documents needn’t result in RFCs.
