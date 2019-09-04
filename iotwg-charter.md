@@ -69,7 +69,7 @@ due to the variety of topics which will not always be able to get quorum as a
 committee of the whole.
 
 {unusual, maybe not charter appropriate, but rather saag-like}
-During in-person meetings, the WG will with typical status and document
+During in-person meetings, the WG will deal with typical status and document
 progress issues during one hour (or less) of the time, and during another
 hour, will be open to slideware presentations and tutorials on current
 IETF or other-SDO IoT efforts.  The goal of these presentations is to quickly
