@@ -42,7 +42,7 @@ This includes:
   * end of life management of devices
 
 The WG is chartered explicitely to work on MUD (RFC8520) and extensions to
-it.
+it within the point ("access control of devices...")
 
 The WG is chartered to work on onboarding protocols, specifically including
 derivaties of BRSKI (RFC-tbd), but not limited to just that protocol.  
