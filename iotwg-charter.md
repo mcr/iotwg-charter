@@ -53,7 +53,9 @@ than to be too-complex jack of all trades.
 The WG is expected to articulate clear applicability statements for each
 protocol.  The WG is expected to produce concise Roadmap documents that
 explain how a variety of IETF (and other) protocols can work together to
-satisfy the Operational needs of specific IoT areas. These roadmap documents needn’t result in RFCs.
+satisfy the Operational needs of specific IoT areas. 
+These roadmap documents needn’t result in RFCs, the WG will decide with
+advice from the responsible Area Director.
 
 Neither the WG nor the IETF has exclusivity here, and an ideal document would
 be one that the WG helps to start, but a specific industry alliance becomes
